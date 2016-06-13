@@ -15,4 +15,4 @@ A truly "down and dirty" utility that, based on a SQL database, will generate (m
       -o    Output file path - relative paths supported
       -t    An optional list of tables delimitted by ','. If specified only the scripts for these tables are generated. Exact match.
 
-This was the byproduct of getting stuck in traffic this AM - enjoy!
+This was the byproduct of getting stuck in traffic one morning and was thrown together in a hurry - enjoy!
